@@ -12,7 +12,7 @@
     { "name": "Janatha Garage", "release_year": 2016, "image": "https://m.media-amazon.com/images/M/MV5BNGUyN2ZiOGYtYmFjNi00NGVkLThlMzEtMjdlOGE0ZTgzZGFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" },
     { "name": "Rangasthalam", "release_year": 2018, "image": "https://m.media-amazon.com/images/S/pv-target-images/798fa523a1729f4f2e81ef55f51d91c8b12c4ddd7feede2219be3fe611433e95.jpg" },
 
-    { "name": "Arjun Reddy", "release_year": 2017, "image": "https://play.google.com/store/movies/details/Arjun_Reddy?id=0PIXYKuy_AI&hl=en_AU" },
+    { "name": "Arjun Reddy", "release_year": 2017, "image": "https://c.saavncdn.com/630/Arjun-Reddy-Telugu-2017-20200817233242-500x500.jpg" },
     { "name": "Jersey", "release_year": 2019, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPI9Sm_165T-tGSeQ-tbigp_LVjV89LqyTnWGkBjpgy2F_If8M" },
     { "name": "Khaidi No. 150", "release_year": 2017, "image": "https://m.media-amazon.com/images/M/MV5BZTcyMDZjMmMtOTI4NC00M2M0LTg1MmMtOTI4N2RkOTBiYmM4XkEyXkFqcGc@._V1_.jpg" },
     { "name": "Bharat Ane Nenu", "release_year": 2018, "image": "https://i.scdn.co/image/ab67616d0000b273e62dd808670fb0b8ca55b889" },
@@ -24,31 +24,31 @@
     { "name": "Leader", "release_year": 2010, "image": "https://m.media-amazon.com/images/M/MV5BNzYyMzZmY2EtY2Y5ZS00OTQ5LWFhZmUtZTljNDg5NDIzMjJjXkEyXkFqcGc@._V1_.jpg" },
     { "name": "Robo", "release_year": 2010, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0j7JDbjPm95LNJzHIANwrSxEgSpOuQn2DRg&s" },
 
-    { "name": "Gabbar Singh", "release_year": 2012, "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Gabbar_Singh_poster.jpg" },
-    { "name": "Attarintiki Daaredi", "release_year": 2013, "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Attarintiki_Daaredi_poster.jpg" },
-    { "name": "Yuvakulu", "release_year": 2013, "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Yuvakulu_poster.jpg" },
-    { "name": "Vikramarkudu", "release_year": 2006, "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Vikramarkudu_poster.jpg" },
-    { "name": "Sarrainodu", "release_year": 2016, "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Sarrainodu_poster.jpg" },
+    { "name": "Gabbar Singh", "release_year": 2012, "image": "https://c.saavncdn.com/450/Gabbar-Singh-2012-500x500.jpg" },
+    { "name": "Attarintiki Daaredi", "release_year": 2013, "image": "https://m.media-amazon.com/images/M/MV5BMzY3MzgxODQtZTBhNC00ZTY0LWI0M2YtNmJkZTk5YTcyMmYzXkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Yuvakulu", "release_year": 2013, "image": "https://c.saavncdn.com/668/Yuvakulu-2005-500x500.jpg" },
+    { "name": "Vikramarkudu", "release_year": 2006, "image": "https://m.media-amazon.com/images/M/MV5BYzFkMDAyYWYtOTA0MS00M2JkLWI1N2ItNGNjN2ZiODE0MjIzXkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Sarrainodu", "release_year": 2016, "image": "https://a10.gaanacdn.com/gn_img/albums/7rVW1Rbk56/VW1EM8pgWk/size_m_1756103638.jpg" },
 
-    { "name": "Khaleja", "release_year": 2010, "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Khaleja_poster.jpg" },
-    { "name": "Race Gurram", "release_year": 2014, "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Race_Gurram_poster.jpg" },
-    { "name": "Evaru", "release_year": 2019, "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Evaru_poster.jpg" },
-    { "name": "Dear Comrade", "release_year": 2019, "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Dear_Comrade_poster.jpg" },
-    { "name": "Sita Ramam", "release_year": 2022, "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sita_Ramam_poster.jpg" },
+    { "name": "Khaleja", "release_year": 2010, "image": "https://m.media-amazon.com/images/M/MV5BZjg5NjVkMTQtMWNlNy00YjQ2LTlkMjktYzA0ZmY2NDg4ZDAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Race Gurram", "release_year": 2014, "https://m.media-amazon.com/images/M/MV5BN2Q2MTA0MGQtMzM1Ni00MmIwLWJmYjMtYzIzNDIxZjU0Y2FmXkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Evaru", "release_year": 2019, "image": "https://m.media-amazon.com/images/M/MV5BOGUzNDdmYjItOWRhYS00YTlmLTgwMWYtMWRmODc0ODNlZWZjXkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Dear Comrade", "release_year": 2019, "https://a10.gaanacdn.com/gn_img/albums/P7m3GvNKqx/m3G5qX99bq/size_m_1756103641.jpg" },
+    { "name": "Sita Ramam", "release_year": 2022, "image": "https://c.saavncdn.com/875/Sita-Ramam-Telugu-Extended-Version-Original-Motion-Picture-Soundtrack-Telugu-2022-20220909150550-500x500.jpg" },
 
-    { "name": "Dasara", "release_year": 2023, "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Dasara_poster.jpg" },
-    { "name": "Bichagadu", "release_year": 2016, "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Bichagadu_poster.jpg" },
-    { "name": "Leader", "release_year": 2010, "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Leader_film_poster.jpg" },
-    { "name": "Ugramm", "release_year": 2014, "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Ugramm_poster.jpg" },
-    { "name": "Manam", "release_year": 2014, "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Manam_poster.jpg" },
+    { "name": "Dasara", "release_year": 2023, "image": "https://m.media-amazon.com/images/M/MV5BMzY1MThhZTQtOWFmMS00NzE3LTg1ZmQtNjM0ODI0OWE0YzE3XkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Bichagadu", "release_year": 2016, "image": "https://sund-images.sunnxt.com/7767/1000x1500_Bichagadu_7767_271642fc-d4e6-4d88-ba56-dc9ef053bd1b.jpg" },
+    { "name": "jualyi", "release_year": 2012, "image": "https://m.media-amazon.com/images/M/MV5BZmZjZTdlODctOWJiMy00N2NlLTg4Y2YtOWYxNDZmMDZjYTg4XkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Ugramm", "release_year": 2014, "image": "https://m.media-amazon.com/images/M/MV5BMmE5NTRjZDgtNzAyNi00ZjU0LWFjODgtYWE5ZGQ4N2UwNGI4XkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Manam", "release_year": 2014, "image": "https://m.media-amazon.com/images/M/MV5BNzg5ZDVjZTctZmI2Ny00MzYwLWFjMzktNDgxNGE2YzIxZmY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" },
 
-    { "name": "Happy Days", "release_year": 2007, "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Happy_Days_poster.jpg" },
-    { "name": "Arya", "release_year": 2004, "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Arya_poster.jpg" },
-    { "name": "Arya 2", "release_year": 2009, "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Arya_2_poster.jpg" },
-    { "name": "Tagore", "release_year": 2003, "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Tagore_film_poster.jpg" },
-    { "name": "Sankarabharanamlo Sivudu", "release_year": 2018, "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Sankarabharanamlo_Sivudu_poster.jpg" },
+    { "name": "Happy Days", "release_year": 2007, "image": "https://a10.gaanacdn.com/gn_img/albums/a7LWBzWzXA/7LWBk1oRbz/size_m.jpg" },
+    { "name": "Arya", "release_year": 2004, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnVcj-85bR6_JxPIG6R7NkCkYgDXTzMdJog&s" },
+    { "name": "Arya 2", "release_year": 2009, "https://sund-images.sunnxt.com/9999/1000x1500_Arya2_9999_26f0adcd-3ce6-402d-b0a4-9d697005586c.jpg" },
+    { "name": "Tagore", "release_year": 2003, "image": "https://m.media-amazon.com/images/M/MV5BMDU3YzAxNDUtMWE5Zi00NzExLTlhYTgtMzAyNWY2MTEyZTQ3XkEyXkFqcGc@._V1_.jpg" },
+    { "name": "Sankarabharanamlo Sivudu", "release_year": 2018, "image": "https://m.media-amazon.com/images/M/MV5BMjM2MTdhZDgtMTVjNS00NDg3LWEzYzUtMmI2YzBkOWNiNDEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" },
 
-    { "name": "Rudhramadevi", "release_year": 2015, "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Rudhramadevi_poster.jpg" },
-    { "name": "Kantara", "release_year": 2022, "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Kantara_poster.jpg" }
+    { "name": "Rudhramadevi", "release_year": 2015, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79R6rXKLwlbe7uyX2VhuBQwT1dFfgXcNnUQ&s" },
+    { "name": "Kantara", "release_year": 2022, "image": "https://i0.wp.com/whatsonsidsmind.com/wp-content/uploads/2024/08/38c27-kantara-poster-1-1.jpeg?fit=900%2C900&ssl=1" }
   ]
 }
