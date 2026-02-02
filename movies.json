@@ -1,7 +1,7 @@
 {
   "telugu_movies": [
     { "name": "Baahubali: The Beginning", "release_year": 2015, "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Baahubali_The_Beginning_poster.jpg" },
-    { "name": "Baahubali 2: The Conclusion", "release_year": 2017, "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_the_Conclusion.jpg" },
+    { "name": "Baahubali 2: The Conclusion", "release_year": 2017, "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/baahubali-the-epic-et00453094-1761820184.jpg" },
     { "name": "RRR", "release_year": 2022, "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg" },
     { "name": "Pushpa: The Rise", "release_year": 2021, "image": "https://upload.wikimedia.org/wikipedia/en/7/75/Pushpa_-_The_Rise_%282021_film%29.jpg" },
     { "name": "Ala Vaikunta Puramulo", "release_year": 2020, "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Ala_Vaikunta_Puramulo_poster.jpg" },
