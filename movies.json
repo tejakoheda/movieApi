@@ -1,0 +1,54 @@
+{
+  "telugu_movies": [
+    { "name": "Baahubali: The Beginning", "release_year": 2015, "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Baahubali_The_Beginning_poster.jpg" },
+    { "name": "Baahubali 2: The Conclusion", "release_year": 2017, "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_the_Conclusion.jpg" },
+    { "name": "RRR", "release_year": 2022, "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg" },
+    { "name": "Pushpa: The Rise", "release_year": 2021, "image": "https://upload.wikimedia.org/wikipedia/en/7/75/Pushpa_-_The_Rise_%282021_film%29.jpg" },
+    { "name": "Ala Vaikunta Puramulo", "release_year": 2020, "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Ala_Vaikunta_Puramulo_poster.jpg" },
+
+    { "name": "Magadheera", "release_year": 2009, "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Magadheera_poster.jpg" },
+    { "name": "Eega", "release_year": 2012, "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Eega_poster.jpg" },
+    { "name": "Srimanthudu", "release_year": 2015, "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Srimanthudu_poster.jpg" },
+    { "name": "Janatha Garage", "release_year": 2016, "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Janatha_Garage_poster.jpg" },
+    { "name": "Rangasthalam", "release_year": 2018, "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Rangasthalam_poster.jpg" },
+
+    { "name": "Arjun Reddy", "release_year": 2017, "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Arjun_Reddy_poster.jpg" },
+    { "name": "Jersey", "release_year": 2019, "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Jersey_poster.jpg" },
+    { "name": "Khaidi No. 150", "release_year": 2017, "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Khaidi_No._150_poster.jpg" },
+    { "name": "Bharat Ane Nenu", "release_year": 2018, "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Bharat_Ane_Nenu_poster.jpg" },
+    { "name": "Sye", "release_year": 2004, "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Sye_poster.jpg" },
+
+    { "name": "Pokiri", "release_year": 2006, "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Pokiri_poster.jpg" },
+    { "name": "Athadu", "release_year": 2005, "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Athadu_poster.jpg" },
+    { "name": "Oopiri", "release_year": 2016, "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Oopiri_poster.jpg" },
+    { "name": "Leader", "release_year": 2010, "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Leader_film_poster.jpg" },
+    { "name": "Robo", "release_year": 2010, "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Enthiran_poster.jpg" },
+
+    { "name": "Gabbar Singh", "release_year": 2012, "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Gabbar_Singh_poster.jpg" },
+    { "name": "Attarintiki Daaredi", "release_year": 2013, "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Attarintiki_Daaredi_poster.jpg" },
+    { "name": "Yuvakulu", "release_year": 2013, "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Yuvakulu_poster.jpg" },
+    { "name": "Vikramarkudu", "release_year": 2006, "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Vikramarkudu_poster.jpg" },
+    { "name": "Sarrainodu", "release_year": 2016, "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Sarrainodu_poster.jpg" },
+
+    { "name": "Khaleja", "release_year": 2010, "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Khaleja_poster.jpg" },
+    { "name": "Race Gurram", "release_year": 2014, "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Race_Gurram_poster.jpg" },
+    { "name": "Evaru", "release_year": 2019, "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Evaru_poster.jpg" },
+    { "name": "Dear Comrade", "release_year": 2019, "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Dear_Comrade_poster.jpg" },
+    { "name": "Sita Ramam", "release_year": 2022, "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sita_Ramam_poster.jpg" },
+
+    { "name": "Dasara", "release_year": 2023, "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Dasara_poster.jpg" },
+    { "name": "Bichagadu", "release_year": 2016, "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Bichagadu_poster.jpg" },
+    { "name": "Leader", "release_year": 2010, "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Leader_film_poster.jpg" },
+    { "name": "Ugramm", "release_year": 2014, "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Ugramm_poster.jpg" },
+    { "name": "Manam", "release_year": 2014, "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Manam_poster.jpg" },
+
+    { "name": "Happy Days", "release_year": 2007, "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Happy_Days_poster.jpg" },
+    { "name": "Arya", "release_year": 2004, "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Arya_poster.jpg" },
+    { "name": "Arya 2", "release_year": 2009, "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Arya_2_poster.jpg" },
+    { "name": "Tagore", "release_year": 2003, "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Tagore_film_poster.jpg" },
+    { "name": "Sankarabharanamlo Sivudu", "release_year": 2018, "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Sankarabharanamlo_Sivudu_poster.jpg" },
+
+    { "name": "Rudhramadevi", "release_year": 2015, "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Rudhramadevi_poster.jpg" },
+    { "name": "Kantara", "release_year": 2022, "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Kantara_poster.jpg" }
+  ]
+}
